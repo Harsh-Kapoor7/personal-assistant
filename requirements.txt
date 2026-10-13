@@ -1,0 +1,28 @@
+
+# Core LLM + orchestration
+langgraph
+openai
+langchain_openai
+pydantic>=2.0.0
+
+# Memory / Vector DB
+faiss-cpu
+sqlite-utils
+
+# Audio I/O
+sounddevice
+numpy
+scipy
+soundfile
+
+# TTS/STT
+pyttsx3
+TTS
+whisper
+
+# Dashboard / UI
+streamlit
+matplotlib
+
+# Utils
+python-dotenv
